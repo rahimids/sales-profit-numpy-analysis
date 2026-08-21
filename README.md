@@ -1,4 +1,4 @@
-# sales-profit-numpy-analysis
+# Sales-profit-numpy-analysis
 # Sales and Profit Analysis with NumPy
 
 ## Project Overview
